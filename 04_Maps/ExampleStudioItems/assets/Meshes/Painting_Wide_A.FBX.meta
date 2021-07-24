@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5a8888f44f2bafa43ac410f111555c34
+guid: 90f67341457ce9f419ca0846981859a2
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Paintings_House
-    second: {fileID: 2100000, guid: 7ee2f25010a27a543832ba05d6300f68, type: 2}
+    second: {fileID: 2100000, guid: b23179cba5e5e914aa245351272621ee, type: 2}
   materials:
     importMaterials: 1
     materialName: 1

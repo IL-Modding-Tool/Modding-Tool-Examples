@@ -1,9 +1,9 @@
 fileFormatVersion: 2
-guid: 8254b6f61a1db1d4a887f44a45a0ec6b
+guid: 97953d96c72e65544930cfdf192daa46
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 1
     enableMipMap: 0
@@ -93,7 +93,7 @@ TextureImporter:
     weights: []
   spritePackingTag: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
+  pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 

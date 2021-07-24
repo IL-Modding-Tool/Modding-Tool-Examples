@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1d12566cbe450d141a4318487d3a3bfc
+guid: b234ec264ffb71c4ca921d3045a9f20b
 ScriptedImporter:
   fileIDToRecycleName:
     4900000: source
@@ -9,3 +9,4 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 9bb79fba752d2dc418f29a2294cacf68, type: 3}
+  Message: 
