@@ -1,0 +1,19 @@
+{
+  "name": "com.hooah.moddingtool.examples",
+  "version": "1.0.0",
+  "displayName": "ILLUSION Modding Tool Examples",
+  "description": "A Pack of examples for the ILLUSION Modding Tool",
+  "unity": "2018.4",
+  "dependencies": {
+  },
+  "keywords": [
+    "attributes",
+    "extensions",
+    "editor tools"
+  ],
+  "author": {
+    "name": "hooh",
+    "email": "hooh-hooah@protonmail.com"
+  }
+}
+
