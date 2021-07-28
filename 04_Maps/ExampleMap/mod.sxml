@@ -8,14 +8,14 @@
     <!-- This section will contain bundle information -->
     <bundles>
         <!-- An assetbundle contains mesh objects. -->
-        <folder auto-path="maps" from="scene" />
+        <folder auto-path="maps" from="scene"/>
     </bundles>
     <!-- This section will contain build information -->
     <!-- Index is automatically generated. That means ORDER matters! -->
     <build>
         <list type="map">
-            <item name="@@EXAMPLE MAP" bundle="example/map.unity3d" scene="map" />
+            <item name="@@EXAMPLE MAP" scene="map"/>
         </list>
     </build>
-    <last-build time="2021-07-22 PM 10:53:04" version="1.0.0" />
+    <last-build time="2021-07-22 PM 10:53:04" version="1.0.0"/>
 </packer>
